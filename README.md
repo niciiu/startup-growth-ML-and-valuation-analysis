@@ -33,4 +33,5 @@ I'm an active Information Systems student collaborating with lecturers on resear
 ## 🤝 Let’s Connect!
 
 - 🔗 [LinkedIn – Nicki Utomo](https://id.linkedin.com/in/nickiutomo)  
-- ✉️ Email: nickiutomo@gmail.com 
+- 🔗 Email: nickiutomo@gmail.com 
+- 🔗 Instagram : instagram.com/nickidewi
