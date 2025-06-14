@@ -1,37 +1,31 @@
-# 👋 Hi, I'm Nicki Utomo
+# 💼 Investment vs. Startup Valuation
 
-🎓 Information Systems Student | 📊 Data Enthusiast | 🔍 Research Assistant
+This project explores the relationship between **investment amount** and **startup valuation**.  
+I used **machine learning** and **data visualization** to find patterns that help investors and founders make smarter decisions.
 
----
+## 🔍 What I Did
+- Analyzed investment and valuation data
+- Applied ML techniques to find trends
+- Visualized results for easy understanding
+- Found key insights for decision-making in business and finance
 
-## 💡 About Me
+## 🛠️ Tools & Tech
+- Python
+- Pandas, Matplotlib, Seaborn, Scikit-learn
+- Jupyter Notebook
 
-I'm an active Information Systems student collaborating with lecturers on research focused on data mining, big data, and data visualization. I love diving into datasets, discovering patterns, and building systems that turn information into insight.
+## 👩‍💻 About Me
 
-- 🔬 Conducting academic research in collaboration with university lecturers  
-- ❤️ Passionate about text mining, topic modeling, and big data analytics  
-- 🛠️ Enjoy building practical tools and information systems to support decision making  
+Hi! I'm **Nicki Utomo**, an Information Systems student who loves working with **data**, especially in the areas of **data mining** and **big data**.  
+I often collaborate with lecturers on research projects and enjoy using data to solve real-world problems.
 
----
 
-## 🛠️ Tech & Tools
+Lets connect!
+📫 [LinkedIn – Nicki Utomo](https://id.linkedin.com/in/nickiutomo)  
+📧 [Email - nickiutomo@gmail.com ]
+📷 [Instagram – @nickidewi](https://instagram.com/nickidewi)  
 
-- **Languages**: Python, JavaScript, SQL  
-- **Libraries/Tools**: Pandas, NumPy, Scikit-learn, WordCloud, Matplotlib  
-- **Others**: Git, VSCode, Airflow, Jupyter Notebook  
-
----
-
-## 📌 Project Highlights
-
-- 📈 **Student Sentiment Topic Modeling** – NLP & coherence score tuning  
-- 🌐 **Information Systems Prototypes** – Custom dashboards & academic tools  
-- ☁️ **Big Data Exploration** – Preprocessing, clustering, and WordCloud visualization  
 
 ---
 
-## 🤝 Let’s Connect!
-
-- 🔗 [LinkedIn – Nicki Utomo](https://id.linkedin.com/in/nickiutomo)  
-- 🔗 Email: nickiutomo@gmail.com 
-- 🔗 Instagram : instagram.com/nickidewi
+> *“Turn data into decisions.”*
