@@ -22,9 +22,9 @@ I often collaborate with lecturers on research projects and enjoy using data to 
 
 Lets connect!
 
-📫 [LinkedIn – Nicki Utomo](https://id.linkedin.com/in/nickiutomo)  
-📧 [Email - nickiutomo@gmail.com ]
-📷 [Instagram – @nickidewi](https://instagram.com/nickidewi)  
+- 📫 [LinkedIn – Nicki Utomo](https://id.linkedin.com/in/nickiutomo)  
+- 📧 [Email - nickiutomo@gmail.com ]
+- 📷 [Instagram – @nickidewi](https://instagram.com/nickidewi)  
 
 
 ---
