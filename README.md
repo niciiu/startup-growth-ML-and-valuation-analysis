@@ -9,7 +9,7 @@
 I'm an active Information Systems student collaborating with lecturers on research focused on data mining, big data, and data visualization. I love diving into datasets, discovering patterns, and building systems that turn information into insight.
 
 - 🔬 Conducting academic research in collaboration with university lecturers  
-- ❤️ Passionate about text mining**, topic modeling, and big data analytics  
+- ❤️ Passionate about text mining, topic modeling, and big data analytics  
 - 🛠️ Enjoy building practical tools and information systems to support decision making  
 
 ---
